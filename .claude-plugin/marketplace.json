@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "eusd-claude-marketplace",
+  "version": "1.0.0",
+  "description": "EUSD Server Engineering team plugins for Claude Code",
+  "owner": {
+    "name": "EUSD Server Engineering",
+    "email": "jstephens@eusd.org"
+  },
+  "plugins": [
+    {
+      "name": "conversation-extractor",
+      "description": "Extract Claude Code conversations to markdown files with descriptive names",
+      "version": "1.0.0",
+      "author": {
+        "name": "EUSD Server Engineering"
+      },
+      "source": "https://github.com/eusd-server-engineer/claude-conversation-extractor-plugin",
+      "category": "productivity"
+    }
+  ]
+}
