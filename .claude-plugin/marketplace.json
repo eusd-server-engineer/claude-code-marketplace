@@ -17,6 +17,16 @@
       },
       "source": "https://github.com/eusd-server-engineer/claude-conversation-extractor-plugin",
       "category": "productivity"
+    },
+    {
+      "name": "extend-vm-disk",
+      "description": "Extend Windows VM disk volumes when a recovery partition is blocking expansion",
+      "version": "1.0.0",
+      "author": {
+        "name": "EUSD Server Engineering"
+      },
+      "source": "https://github.com/eusd-server-engineer/extend-vm-disk-plugin",
+      "category": "sysadmin"
     }
   ]
 }
