@@ -15,7 +15,10 @@
       "author": {
         "name": "EUSD Server Engineering"
       },
-      "source": "https://github.com/eusd-server-engineer/claude-conversation-extractor-plugin",
+      "source": {
+        "source": "github",
+        "repo": "eusd-server-engineer/claude-conversation-extractor-plugin"
+      },
       "category": "productivity"
     },
     {
@@ -25,7 +28,10 @@
       "author": {
         "name": "EUSD Server Engineering"
       },
-      "source": "https://github.com/eusd-server-engineer/extend-vm-disk-plugin",
+      "source": {
+        "source": "github",
+        "repo": "eusd-server-engineer/extend-vm-disk-plugin"
+      },
       "category": "sysadmin"
     }
   ]
